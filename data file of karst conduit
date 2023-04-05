@@ -1,0 +1,18 @@
+elements number of karst conduit
+initial element in x
+initial element in y
+initial element in z
+position of karst conduit: 1= axis x, 2=axis y, 3= axis z
+conduit permeability Kc
+Set type of boundary on left: 0=dirichelet, 1=neumann, 3=robin non-linear 
+Set type of boundary on right: 0=dirichelet, 1=neumann, 3=robin non-linear
+value of boundary at left boundary (if robin non-linear: R^4) 
+value of boundary at right boundary (if robin non-linear: R^4) 
+value of constant C at left boundary
+value of constant C at right boundary
+KI
+Ac
+number of localization with collapse breccia
+R^4
+C
+local of collapse breccias (j)

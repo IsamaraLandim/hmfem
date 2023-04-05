@@ -1,0 +1,5 @@
+
+
+./exe.sh: line 38: 4151604 Killed                  $EXE $nx $ny $nz $Ix $Iy $Iz $PERM $DIR $lay $PERMFILE $WIFILE $ki 2> $STDERR > $STDOUT
+Terminating after 3908 seconds.
+
