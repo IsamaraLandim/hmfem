@@ -35,6 +35,9 @@ To compile:
 
 $ make
 
+### File
+create a file data_conduitnumber_type.dat with the conduits data
+
 ### Folders
 Object files are in 
 /build/obj/
@@ -56,7 +59,7 @@ $ ./roda.sh
 
 Inside this script it calls the script exe.sh: 
 
-$ ./exe.sh nx ny nz Ix Iy Iz Perm type wi
+$ ./exe.sh nx ny nz Ix Iy Iz Perm number-of-karst-conduit type
 
 Is it necessary to provide the following inputs:
 
